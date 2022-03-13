@@ -46,3 +46,4 @@ Meme
 image_write(Meme, "My_Meme.png")
 
 ## My Meme produced:
+![](My_Meme.png)
