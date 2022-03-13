@@ -4,7 +4,7 @@ library(magick)
 
 #\n for break in text line
 
-# panel 1
+#panel 1
 Excited_Man <- image_read("https://i.kym-cdn.com/photos/images/newsfeed/001/553/696/a42.jpg") %>%
   image_scale(400)
 
