@@ -1,5 +1,5 @@
-# greetings
-## Coding for my meme
+# *Daniel Perkins* stats 220 Assignmenmt 1 Part 1
+## **Coding for my meme**
 ``` 
 library(magick)
 
@@ -47,5 +47,10 @@ Meme
 image_write(Meme, "My_Meme.png")
 ```
 
-## My Meme produced:
+## **My Meme produced:**
 ![](My_Meme.png)
+
+## Meme information and inspiration
+During the time i was creating this meme, i was having a **extremley stressful** week, mostly due to the fact that i had to miss out on some lectures due to my newly contracted Covid. When we were assigned this task, i thought it would be funny to create a meme that is niche, yet may also be relatable to some fellow second year university students.
+The format i used is a bit of a "classic" 4 panel format with the left hand side depicting two emotions, and the right hand side giving an explanation for said emotions. My twist is that i chose two custom images of my liking which make me laugh whenever i see them used in other formats. The bottom left image is actually sourced from a 
+[viral video](https://www.youtube.com/watch?v=xPM85MCgqXo) and has also been made into many popular [gifs](https://c.tenor.com/do8q_eYrsW4AAAAC/crying-black-guy-meme.gif)
