@@ -1,6 +1,7 @@
 # greetings
 ## Coding for my meme
-``` library(magick)
+``` 
+library(magick)
 
 #\n for break in text line
 
