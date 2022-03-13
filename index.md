@@ -1,4 +1,4 @@
-# *Daniel Perkins* stats 220 Assignmenmt 1 Part 1
+# *Daniel Perkins stats 220 Assignmenmt 1 Part 1*
 ## **Coding for my meme**
 ``` 
 library(magick)
