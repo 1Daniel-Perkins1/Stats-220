@@ -1,6 +1,6 @@
 # greetings
 ## Coding for my meme
-library(magick)
+``` library(magick)
 
 #\n for break in text line
 
@@ -44,6 +44,7 @@ Meme <- c(First_row,second_row) %>%
 Meme
 
 image_write(Meme, "My_Meme.png")
+```
 
 ## My Meme produced:
 ![](My_Meme.png)
