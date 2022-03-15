@@ -54,7 +54,7 @@ image_write(Meme, "My_Meme.png")
 During the time i was creating this meme, i was having a **extremley stressful** week, mostly due to the fact that i had to miss out on some lectures due to my newly contracted Covid. When we were assigned this task, i thought it would be funny to create a meme that is niche, yet may also be relatable to some fellow second year university students.
 The format i used is a bit of a "classic" 4 panel format with the left hand side depicting two emotions, and the right hand side giving an explanation for said emotions. My twist is that i chose two custom images of my liking which make me laugh whenever i see them used in other formats. The bottom left image is actually sourced from a 
 viral video, however due to course language and use of an illegal substance, i feel it would be unwise to link it in a university assignment. Instead I will show an example of it as one of my favourite [gifs](https://c.tenor.com/do8q_eYrsW4AAAAC/crying-black-guy-meme.gif) to use when messaging my mates.
-This first module has taugh me many essential skills including:
+This first module has taught me many essential skills including:
 * The importance of proper syntax
 * The basics of R coding and language
 * The meanings of once foreign terms like 'HTML' and 'Markdown' 
