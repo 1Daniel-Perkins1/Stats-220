@@ -58,3 +58,9 @@ This first module has taught me many essential skills including:
 * The importance of proper syntax
 * The basics of R coding and language
 * The meanings of once foreign terms like 'HTML' and 'Markdown' 
+
+
+
+If you have read this far:
+
+![](http://www.reactiongifs.com/r/2013/10/thanks.gif)
