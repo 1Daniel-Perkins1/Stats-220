@@ -1,4 +1,4 @@
-### My Read Me!
+# My Read Me!
 ## Stats220 UOA
 Hello page visitors!
 This repo was created to display the creations and progress I make in my Stats220 Data Sciences university course. So far i have my first assignment completed with as index file containing information on the creation of a meme.
