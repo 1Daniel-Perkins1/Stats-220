@@ -9,4 +9,4 @@ This repo was created to display the creations and progress I make in my Stats22
 
 ![](https://www.seekpng.com/png/full/49-493201_atlanta-air-conditioning-sunglasses-fun-fixed-smiling-thumbs.png)
 
-[Repo Link](https://1Daniel-Perkins1.github.io/Stats-220/) to view my first project.
+### [Repo Link](https://1Daniel-Perkins1.github.io/Stats-220/) to view my first project.
